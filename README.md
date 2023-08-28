@@ -3,8 +3,6 @@ This is a demo of authentication on Whop. It allows you to login using your Whop
 
 Think of Whop as the combination of Stripe and Auth0.
 
-This is really cool.
-
 ![Homepage Image](./public/homepage.png)
 
 ## Development
